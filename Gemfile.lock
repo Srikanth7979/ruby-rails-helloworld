@@ -65,7 +65,7 @@ GEM
       activerecord (= 3.2.22)
       activeresource (= 3.2.22)
       activesupport (= 3.2.22)
-      bundler (~> 1.0)
+      bundler (~> 2.2.30)
       railties (= 3.2.22)
     railties (3.2.22)
       actionpack (= 3.2.22)
@@ -108,4 +108,4 @@ DEPENDENCIES
   uglifier (>= 1.0.3)
 
 BUNDLED WITH
-   1.10.6
+   2.2.30
