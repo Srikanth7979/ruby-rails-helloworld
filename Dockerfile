@@ -15,3 +15,4 @@ COPY . .
 
 # Specify the command to run your application
 CMD ["ruby", "app.rb"]
+EXPOSE 3000
